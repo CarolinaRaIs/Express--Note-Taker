@@ -1,4 +1,4 @@
-# Express--Note-Taker
+# Express-Note-Taker
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## [Description:](#description)
@@ -46,7 +46,7 @@
        https://github.com/CarolinaRaIs/Express-Note-Taker
 
        To access the deployed site visit:
-       
+       https://carolinarais.github.io/Express-Note-Taker/
 
 ## [License:](#license:)
 
