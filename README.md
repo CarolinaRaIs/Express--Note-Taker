@@ -48,6 +48,9 @@
        To access the deployed site visit:
        https://carolinarais.github.io/Express-Note-Taker/
 
+       To access the site deployed by Heroku:
+       https://express-note-taker-manager.herokuapp.com/notes
+
 ## [License:](#license:)
 
        This project is licensed under the MIT License license.
