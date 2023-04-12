@@ -23,6 +23,7 @@ app.use(express.json());
 // This way can ensure that the file path is correct regardless of where server.js file is located in the file system.
 app.get("/notes", (req, res) => {
     //res.sendFile(path.join(__dirname, "./Develop/public/notes.html"));
+    res.sendFile(path.join(__dirname, "Develop/public/notes.html"));
 });
 
 // Route for handling GET request to "/api/notes" URL
